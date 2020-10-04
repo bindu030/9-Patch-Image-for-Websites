@@ -11,7 +11,7 @@ This project allows you to use `.9.png` or `.9.gif` files on web pages. These
 files allow for rapid development of webpages with complex styles without having
 to use complex CSS3.
 
-## What Are 9 Patch Images
+## What Are 9 Patch Images?
 
 9 Patch images are stretchable, repeatable images reduced to their smallest
 size. The simplest example would be if you were to take a rounded div and slice
